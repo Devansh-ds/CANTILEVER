@@ -61,9 +61,8 @@ This application allows users to securely register, log in, manage multiple acco
 3. **compile and run**
 
    ````bash
+   
    javac *.java
-
-   ```bash
    java BankApp
 
    ````
